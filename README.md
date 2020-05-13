@@ -15,3 +15,5 @@ Après avoir consulté ces articles, nous sommes finalement arrivés à résoudr
 La technologie utilisée est : NodeJs
 
 
+Veuillez consulter notre docx (joigné avec le projet pour plus de détaille)
+
